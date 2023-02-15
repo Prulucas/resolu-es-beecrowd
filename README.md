@@ -1,1 +1,1 @@
-# resolu-es-beecrowd
+# resolucoes-beecrowd
