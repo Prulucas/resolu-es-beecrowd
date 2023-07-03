@@ -1,1 +1,1 @@
-# resolucoes-beecrowd
+# resolucoes-beecrowd-Pyton
